@@ -1,4 +1,4 @@
-# Item List App
+# Item List Manager
 
 This is a simple React application for managing a list of items. You can add items with a specified name and quantity, view the list of items, and delete items from the list. The application also displays a message when there are no items in the list.
 
